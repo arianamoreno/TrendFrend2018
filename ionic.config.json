@@ -1,6 +1,6 @@
 {
-  "name": "myApp",
-  "app_id": "7f94e11f",
+  "name": "TrendFrend",
+  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
